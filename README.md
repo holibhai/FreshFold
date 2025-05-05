@@ -1,6 +1,4 @@
-Here is a **high-quality, professional README file** tailored for your project. It includes a project overview, core features, technologies used (Spring Boot, React, Tailwind CSS, Framer Motion, MySQL, Hibernate, Axios, etc.), setup instructions, and more.
-
-You can copy-paste this directly into your `README.md` file on GitHub:
+ 
 
 
 
